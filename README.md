@@ -53,6 +53,14 @@ Interactive filters allow users to explore the data by year, month, and country.
 7. Project Purpose
 This project demonstrates the use of Excel for transforming raw data into interactive dashboards and meaningful business insights.
 
+## Dashboard Preview
+
+ Dashboard 1
+![Dashboard Overview](Dashboard-Overview.png)
+
+ Dashboard 2
+![Dashboard Analysis](Dashboard-Analysis.png)
+
 ---
 
 عربي 
@@ -101,4 +109,11 @@ This project demonstrates the use of Excel for transforming raw data into intera
 - توثيق المشروع.
 
  7. هدف المشروع
-يهدف المشروع إلى توضيح كيفية استخدام Excel لتحويل البيانات الأولية إلى لوحات معلومات تفاعلية واستخراج رؤى تساعد على فهم أداء الأعمال واتخاذ القرارات.
+يهدف المشروع إلى توضيح كيفية استخدام Excel لتحويل البيانات الأولية إلى لوحات معلومات تفاعلية واستخراج رؤى تساعد على فهم أداء الأعمال واتخاذ القرارات
+
+## معاينة لوحة المعلومات
+
+
+![لوحة المعلومات الأولى](Dashboard-Overview.png)
+
+![لوحة المعلومات الثانية](Dashboard-Analysis.png)
