@@ -61,6 +61,46 @@ This project demonstrates the use of Excel for transforming raw data into intera
  Dashboard 2
 ![Dashboard Analysis](Dashboard-Analysis.png)
 
+## Key Business Insights
+
+### 1. Revenue Comparison (2007–2008)
+- 2007: $102.38M
+- 2008: $101.86M
+
+Revenue decreased slightly in 2008 compared to 2007.
+
+### 2. Profit Comparison
+- 2007: $42.55M
+- 2008: $42.16M
+
+Total profit remained relatively stable, with a slight decrease in 2008.
+
+### 3. Profit Margin
+- 2007: 41.6%
+- 2008: 41.4%
+
+The profit margin remained almost unchanged across both years.
+
+### 4. Sales Quantity
+- 2007: 473
+- 2008: 504
+
+Sales quantity increased in 2008, despite the slight decrease in revenue and profit.
+
+### 5. Quarterly Profit Distribution (2007)
+- **Strongest quarter:** Q4, contributing approximately 41% of annual profit.
+- **Weakest quarter:** Q1, contributing approximately 14%.
+
+### 6. Monthly Profit Analysis (2007)
+- **Highest-performing month:** December, with approximately $7.97M in profit.
+- **Lowest-performing month:** January, with approximately $1.80M in profit.
+
+The results show significant variation in monthly profit, highlighting seasonal differences in business performance.
+
+## Data Limitations
+
+The 2008 dataset covers January through July only. Therefore, the comparison between 2007 and 2008 is based on different reporting periods and should be interpreted with caution.
+
 ---
 
 عربي 
@@ -117,3 +157,54 @@ This project demonstrates the use of Excel for transforming raw data into intera
 ![لوحة المعلومات الأولى](Dashboard-Overview.png)
 
 ![لوحة المعلومات الثانية](Dashboard-Analysis.png)
+
+
+<div dir="rtl" align="right">
+
+<h2>أهم النتائج والتحليلات</h2>
+
+<h3>1. مقارنة الإيرادات (2007–2008)</h3>
+
+- 2007: <bdi dir="ltr">$102.38M</bdi>
+- 2008: <bdi dir="ltr">$101.86M</bdi>
+
+انخفضت الإيرادات بشكل طفيف في عام 2008 مقارنة بعام 2007.
+
+<h3>2. مقارنة الأرباح</h3>
+
+- 2007: <bdi dir="ltr">$42.55M</bdi>
+- 2008: <bdi dir="ltr">$42.16M</bdi>
+
+ظل إجمالي الأرباح متقارباً مع انخفاض طفيف في عام 2008.
+
+<h3>3. هامش الربح</h3>
+
+- 2007: <bdi dir="ltr">41.6%</bdi>
+- 2008: <bdi dir="ltr">41.4%</bdi>
+
+ظل هامش الربح شبه مستقر بين العامين.
+
+<h3>4. كمية المبيعات</h3>
+
+- 2007: <bdi dir="ltr">473</bdi>
+- 2008: <bdi dir="ltr">504</bdi>
+
+ارتفعت كمية المبيعات في 2008 رغم الانخفاض الطفيف في الإيرادات والأرباح.
+
+<h3>5. توزيع الأرباح حسب الأرباع (2007)</h3>
+
+- أقوى ربع: الربع الرابع، وساهم بنحو 41% من الأرباح السنوية.
+- أضعف ربع: الربع الأول، وساهم بنحو 14%.
+
+<h3>6. تحليل الأرباح الشهرية (2007)</h3>
+
+- أعلى شهر: ديسمبر، بأرباح تقارب <bdi dir="ltr">$7.97M</bdi>.
+- أقل شهر: يناير، بأرباح تقارب <bdi dir="ltr">$1.80M</bdi>.
+
+تُظهر النتائج تفاوتاً واضحاً في الأرباح الشهرية، مما يبرز الاختلافات الموسمية في أداء الشركة.
+
+<h2>حدود البيانات</h2>
+
+تغطي بيانات عام 2008 الفترة من يناير إلى يوليو فقط؛ لذلك تعتمد المقارنة بين 2007 و2008 على فترتين زمنيتين مختلفتين، ويجب تفسيرها بحذر.
+
+</div>.
