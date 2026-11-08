@@ -1,135 +1,134 @@
-Sales Analysis
-Interactive Excel Dashboard | تحليل المبيعات باستخدام Excel
-
----
+# AdventureWorks Sales Analysis | تحليل مبيعات AdventureWorks
 
 ## English
 
-1. Project Overview
-An interactive sales analysis dashboard developed using Microsoft Excel and AdventureWorks data.
+### 1. Project Overview
 
-The project analyzes sales performance, profitability, products, and customer data from 2005 to 2008 across six countries.
+This project focuses on analyzing sales data using Microsoft Excel and the AdventureWorks dataset. It features interactive dashboards designed to explore sales performance, profitability, products, and customers.
 
-2. Business Questions
-This project aims to answer the following questions:
+The analysis covers the period from 2005 to 2008 and includes data from six countries.
+
+### 2. Business Questions
 
 - How did sales and profit change over time?
-- Which countries contributed most to revenue?
+- Which countries contributed the most to revenue?
 - Which products performed best?
-- What are the main characteristics of the customers?
-- What patterns and trends can be identified in sales data?
+- What are the main customer characteristics?
+- What patterns and trends can be identified in the sales data?
 
-3. Dashboard Features
-The dashboard includes several analysis sections:
+### 3. Dashboard Features
 
--Time Series Analysis: Explore sales performance over time.
--Sales Analysis: Review revenue, costs, and profitability.
--Product Analysis: Examine product performance.
--Customer Analysis: Explore customer-related information.
+- Time Series Analysis: Tracking sales performance over time.
+- Sales Analysis: Reviewing revenue, costs, and profitability.
+- Product Analysis: Exploring product performance.
+- Customer Analysis: Exploring customer-related data.
+- Interactive Filters: Filtering results by year, month, and country.
 
-Interactive filters allow users to explore the data by year, month, and country.
+### 4. Tools & Technologies
 
-4. Tools & Technologies
 - Microsoft Excel
 - Power Query
 - Power Pivot
 - PivotTables
-- Interactive Charts and Slicers
+- Charts and Slicers
 - VBA
 
-5. Skills Demonstrated
-- Data cleaning and transformation
-- Data modeling
-- Exploratory data analysis
-- Business performance analysis
-- Dashboard development
-- Data visualization
+### 5. Skills Demonstrated
 
-6. Project Files
-- Excel workbook (`.xlsm`)
-- Dashboard screenshots
-- Project documentation
+- Data Cleaning and Transformation
+- Data Modeling
+- Exploratory Data Analysis
+- Business Performance Analysis
+- Dashboard Development
+- Data Visualization
 
-7. Project Purpose
-This project demonstrates the use of Excel for transforming raw data into interactive dashboards and meaningful business insights.
+## Dashboard Preview | معاينة لوحات المعلومات
 
-## Dashboard Preview
+### Dashboard 1 | لوحة المعلومات الأولى
 
- Dashboard 1
 ![Dashboard Overview](Dashboard-Overview.png)
 
- Dashboard 2
+### Dashboard 2 | لوحة المعلومات الثانية
+
 ![Dashboard Analysis](Dashboard-Analysis.png)
 
-## Key Business Insights
+## 6. Key Business Insights
 
-### 1. Revenue Comparison (2007–2008)
+### Revenue Comparison (2007–2008)
+
 - 2007: $102.38M
 - 2008: $101.86M
 
 Revenue decreased slightly in 2008 compared to 2007.
 
-### 2. Profit Comparison
+### Profit Comparison
+
 - 2007: $42.55M
 - 2008: $42.16M
 
 Total profit remained relatively stable, with a slight decrease in 2008.
 
-### 3. Profit Margin
+### Profit Margin
+
 - 2007: 41.6%
 - 2008: 41.4%
 
 The profit margin remained almost unchanged across both years.
 
-### 4. Sales Quantity
+### Sales Quantity
+
 - 2007: 473
 - 2008: 504
 
 Sales quantity increased in 2008, despite the slight decrease in revenue and profit.
 
-### 5. Quarterly Profit Distribution (2007)
-- **Strongest quarter:** Q4, contributing approximately 41% of annual profit.
-- **Weakest quarter:** Q1, contributing approximately 14%.
+### Quarterly Profit Distribution (2007)
 
-### 6. Monthly Profit Analysis (2007)
-- **Highest-performing month:** December, with approximately $7.97M in profit.
-- **Lowest-performing month:** January, with approximately $1.80M in profit.
+- Strongest quarter: Q4, contributing approximately 41% of annual profit.
+- Weakest quarter: Q1, contributing approximately 14%.
+
+### Monthly Profit Analysis (2007)
+
+- Highest-performing month: December, with approximately $7.97M in profit.
+- Lowest-performing month: January, with approximately $1.80M in profit.
 
 The results show significant variation in monthly profit, highlighting seasonal differences in business performance.
 
-## Business Recommendations
+## 7. Business Recommendations
 
-1. **Strengthen Q1 Sales:** Introduce targeted promotions and marketing campaigns during the first quarter to improve performance during the weakest period.
+1. Strengthen Q1 Sales: Launch targeted promotions and marketing campaigns during the first quarter to improve performance during the weakest period.
 
-2. **Prepare for Q4 Demand:** Increase inventory availability and ensure operational readiness ahead of the fourth quarter, which generated the highest profit in 2007.
+2. Prepare for Q4 Demand: Ensure sufficient inventory and operational readiness ahead of the fourth quarter.
 
-3. **Optimize Monthly Sales Performance:** Analyze the reasons behind the low profits in January and explore opportunities to improve sales during this month.
+3. Improve Monthly Performance: Investigate the reasons behind lower profit in January and identify opportunities for improvement.
 
-4. **Investigate Sales Quantity vs. Revenue:** Although sales quantity increased in 2008, revenue and profit decreased slightly. Investigate product mix and average selling prices to understand this difference.
+4. Investigate Sales Quantity vs. Revenue: Although sales quantity increased in 2008, revenue and profit decreased slightly. Further analysis of product mix and average selling prices may help explain this difference.
 
-5. **Use Data-Driven Planning:** Monitor monthly and quarterly performance regularly to identify seasonal trends and support better business decisions.
+5. Use Data-Driven Planning: Monitor monthly and quarterly performance to identify seasonal patterns and support better business decisions.
 
----
-
-## Data Limitations
+## 8. Data Limitations
 
 The 2008 dataset covers January through July only. Therefore, the comparison between 2007 and 2008 is based on different reporting periods and should be interpreted with caution.
+
+## 9. Project Files
+
+- Excel workbook (.xlsm)
+- Dashboard screenshots
+- Project documentation
 
 ---
 
 <div dir="rtl" align="right">
 
-<h1>مشروع تحليل المبيعات باستخدام Excel – AdventureWorks</h1>
+<h2>النسخة العربية</h2>
 
-<h2>1. نظرة عامة على المشروع</h2>
+<h3>1. نظرة عامة على المشروع</h3>
 
 مشروع لتحليل المبيعات باستخدام Microsoft Excel وبيانات شركة AdventureWorks، من خلال إنشاء لوحات معلومات تفاعلية تساعد على فهم أداء المبيعات والربحية والمنتجات والعملاء.
 
 يغطي المشروع الفترة من عام 2005 إلى عام 2008، ويشمل بيانات ست دول.
 
-يهدف المشروع إلى تحويل البيانات الأولية إلى معلومات واضحة تساعد على فهم أداء الأعمال واستخراج رؤى تدعم اتخاذ القرارات.
-
-<h2>2. الأسئلة التي يجيب عنها المشروع</h2>
+<h3>2. الأسئلة التي يجيب عنها المشروع</h3>
 
 <ul dir="rtl" align="right">
 <li>كيف تغيرت المبيعات والأرباح بمرور الوقت؟</li>
@@ -139,17 +138,17 @@ The 2008 dataset covers January through July only. Therefore, the comparison bet
 <li>ما الأنماط والاتجاهات التي يمكن اكتشافها في بيانات المبيعات؟</li>
 </ul>
 
-<h2>3. مميزات لوحة المعلومات</h2>
+<h3>3. مميزات لوحة المعلومات</h3>
 
 <ul dir="rtl" align="right">
 <li>تحليل السلاسل الزمنية ومتابعة أداء المبيعات عبر الزمن.</li>
 <li>تحليل الإيرادات والتكاليف والربحية.</li>
 <li>دراسة أداء المنتجات.</li>
 <li>استكشاف البيانات المتعلقة بالعملاء.</li>
-<li>تصفية البيانات حسب السنة والشهر والدولة.</li>
+<li>تصفية النتائج حسب السنة والشهر والدولة.</li>
 </ul>
 
-<h2>4. الأدوات والتقنيات المستخدمة</h2>
+<h3>4. الأدوات والتقنيات المستخدمة</h3>
 
 <ul dir="rtl" align="right">
 <li>مايكروسوفت إكسل.</li>
@@ -160,7 +159,7 @@ The 2008 dataset covers January through July only. Therefore, the comparison bet
 <li>لغة VBA.</li>
 </ul>
 
-<h2>5. المهارات التي يعرضها المشروع</h2>
+<h3>5. المهارات التي يعرضها المشروع</h3>
 
 <ul dir="rtl" align="right">
 <li>تنظيف البيانات وتحويلها.</li>
@@ -171,19 +170,9 @@ The 2008 dataset covers January through July only. Therefore, the comparison bet
 <li>عرض البيانات بصرياً.</li>
 </ul>
 
-<h2>6. معاينة لوحات المعلومات</h2>
+<h3>6. أهم النتائج والتحليلات</h3>
 
-<h3>لوحة المعلومات الأولى</h3>
-
-<img src="Dashboard-Overview.png" alt="لوحة المعلومات الأولى" width="100%">
-
-<h3>لوحة المعلومات الثانية</h3>
-
-<img src="Dashboard-Analysis.png" alt="لوحة المعلومات الثانية" width="100%">
-
-<h2>7. أهم النتائج والتحليلات</h2>
-
-<h3>مقارنة الإيرادات (2007–2008)</h3>
+<h4>مقارنة الإيرادات (2007–2008)</h4>
 
 <ul dir="rtl" align="right">
 <li>عام 2007: <bdi dir="ltr">$102.38M</bdi></li>
@@ -192,7 +181,7 @@ The 2008 dataset covers January through July only. Therefore, the comparison bet
 
 انخفضت الإيرادات بشكل طفيف في عام 2008 مقارنة بعام 2007.
 
-<h3>مقارنة الأرباح</h3>
+<h4>مقارنة الأرباح</h4>
 
 <ul dir="rtl" align="right">
 <li>عام 2007: <bdi dir="ltr">$42.55M</bdi></li>
@@ -201,7 +190,7 @@ The 2008 dataset covers January through July only. Therefore, the comparison bet
 
 ظل إجمالي الأرباح متقارباً مع انخفاض طفيف في عام 2008.
 
-<h3>هامش الربح</h3>
+<h4>هامش الربح</h4>
 
 <ul dir="rtl" align="right">
 <li>عام 2007: <bdi dir="ltr">41.6%</bdi></li>
@@ -210,7 +199,7 @@ The 2008 dataset covers January through July only. Therefore, the comparison bet
 
 ظل هامش الربح شبه مستقر بين العامين.
 
-<h3>كمية المبيعات</h3>
+<h4>كمية المبيعات</h4>
 
 <ul dir="rtl" align="right">
 <li>عام 2007: <bdi dir="ltr">473</bdi></li>
@@ -219,14 +208,14 @@ The 2008 dataset covers January through July only. Therefore, the comparison bet
 
 ارتفعت كمية المبيعات في عام 2008 رغم الانخفاض الطفيف في الإيرادات والأرباح.
 
-<h3>توزيع الأرباح حسب الأرباع (2007)</h3>
+<h4>توزيع الأرباح حسب الأرباع (2007)</h4>
 
 <ul dir="rtl" align="right">
 <li>أقوى ربع: الربع الرابع، وساهم بنحو <bdi dir="ltr">41%</bdi> من الأرباح السنوية.</li>
 <li>أضعف ربع: الربع الأول، وساهم بنحو <bdi dir="ltr">14%</bdi>.</li>
 </ul>
 
-<h3>تحليل الأرباح الشهرية (2007)</h3>
+<h4>تحليل الأرباح الشهرية (2007)</h4>
 
 <ul dir="rtl" align="right">
 <li>أعلى شهر: ديسمبر، بأرباح تقارب <bdi dir="ltr">$7.97M</bdi>.</li>
@@ -235,7 +224,7 @@ The 2008 dataset covers January through July only. Therefore, the comparison bet
 
 تُظهر النتائج تفاوتاً واضحاً في الأرباح الشهرية، مما يبرز الاختلافات الموسمية في أداء الشركة.
 
-<h2>8. التوصيات التجارية</h2>
+<h3>7. التوصيات التجارية</h3>
 
 <ol dir="rtl" align="right">
 <li>تعزيز المبيعات في الربع الأول من خلال إطلاق عروض ترويجية وحملات تسويقية مستهدفة لتحسين الأداء خلال أضعف فترات السنة.</li>
@@ -245,20 +234,16 @@ The 2008 dataset covers January through July only. Therefore, the comparison bet
 <li>الاعتماد على البيانات في التخطيط من خلال متابعة الأداء الشهري والفصلي واكتشاف الأنماط الموسمية ودعم اتخاذ القرارات.</li>
 </ol>
 
-<h2>9. حدود البيانات</h2>
+<h3>8. حدود البيانات</h3>
 
 تغطي بيانات عام 2008 الفترة من يناير إلى يوليو فقط؛ لذلك تعتمد المقارنة بين عامي 2007 و2008 على فترتين زمنيتين مختلفتين، ويجب تفسير النتائج بحذر.
 
-<h2>10. ملفات المشروع</h2>
+<h3>9. ملفات المشروع</h3>
 
 <ul dir="rtl" align="right">
 <li>ملف Excel بصيغة XLSM.</li>
 <li>صور لوحات المعلومات.</li>
 <li>توثيق المشروع.</li>
 </ul>
-
-<h2>11. هدف المشروع</h2>
-
-يهدف المشروع إلى توضيح كيفية استخدام Excel لتحويل البيانات الأولية إلى لوحات معلومات تفاعلية واستخراج رؤى تساعد على فهم أداء الأعمال واتخاذ القرارات.
 
 </div>
