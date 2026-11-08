@@ -97,6 +97,20 @@ Sales quantity increased in 2008, despite the slight decrease in revenue and pro
 
 The results show significant variation in monthly profit, highlighting seasonal differences in business performance.
 
+## Business Recommendations
+
+1. **Strengthen Q1 Sales:** Introduce targeted promotions and marketing campaigns during the first quarter to improve performance during the weakest period.
+
+2. **Prepare for Q4 Demand:** Increase inventory availability and ensure operational readiness ahead of the fourth quarter, which generated the highest profit in 2007.
+
+3. **Optimize Monthly Sales Performance:** Analyze the reasons behind the low profits in January and explore opportunities to improve sales during this month.
+
+4. **Investigate Sales Quantity vs. Revenue:** Although sales quantity increased in 2008, revenue and profit decreased slightly. Investigate product mix and average selling prices to understand this difference.
+
+5. **Use Data-Driven Planning:** Monitor monthly and quarterly performance regularly to identify seasonal trends and support better business decisions.
+
+---
+
 ## Data Limitations
 
 The 2008 dataset covers January through July only. Therefore, the comparison between 2007 and 2008 is based on different reporting periods and should be interpreted with caution.
@@ -202,6 +216,20 @@ The 2008 dataset covers January through July only. Therefore, the comparison bet
 - أقل شهر: يناير، بأرباح تقارب <bdi dir="ltr">$1.80M</bdi>.
 
 تُظهر النتائج تفاوتاً واضحاً في الأرباح الشهرية، مما يبرز الاختلافات الموسمية في أداء الشركة.
+
+
+ التوصيات التجارية
+
+1. تعزيز المبيعات في الربع الأول: إطلاق عروض ترويجية وحملات تسويقية مستهدفة خلال الربع الأول لتحسين الأداء في أضعف فترات السنة.
+
+2. الاستعداد لزيادة الطلب في الربع الرابع: التأكد من توفر المخزون والاستعداد التشغيلي قبل الربع الرابع، الذي حقق أعلى نسبة من الأرباح في عام 2007.
+
+3. تحسين الأداء الشهري للمبيعات: تحليل أسباب انخفاض الأرباح في شهر يناير، والبحث عن فرص لزيادة المبيعات خلال هذا الشهر.
+
+4. دراسة العلاقة بين كمية المبيعات والإيرادات: رغم ارتفاع كمية المبيعات في 2008، انخفضت الإيرادات والأرباح بشكل طفيف. يُنصح بدراسة مزيج المنتجات ومتوسط أسعار البيع لفهم هذا الاختلاف.
+
+5. الاعتماد على البيانات في التخطيط: متابعة الأداء الشهري والفصلي بانتظام لاكتشاف الأنماط الموسمية ودعم اتخاذ قرارات تجارية أفضل.
+
 
 <h2>حدود البيانات</h2>
 
